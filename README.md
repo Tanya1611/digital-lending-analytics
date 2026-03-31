@@ -1,60 +1,20 @@
-###### \# Digital Lending Funnel \& Approval Analytics
+# Digital Lending Analytics: Approval & Risk Analysis
 
-###### 
+## Project Overview
 
-###### \## Overview
+### This project analyzes loan application data to understand loan approval patterns and borrower risk behavior in a digital lending environment.
+### The objective is to identify key factors influencing lending decisions and uncover potential mismatches between approved loans and actual borrower risk.
 
-###### This project analyzes digital loan applications to identify approval drivers and borrower risk patterns.
+## Business Problem
 
-###### 
+### In digital lending platforms, making accurate approval decisions is critical.
+### This project answers:
+* Who gets approved for loans?
+* What factors influence approval decisions?
+* Are approved borrowers actually low-risk?
+* Are there inefficiencies in the decision-making process?
 
-###### \## Tools Used
-
-###### Python
-
-###### Pandas
-
-###### SQL
-
-###### 
-
-###### \## Project Structure
-
-###### 
-
-###### data/ - loan datasets
-
-###### notebooks/ - Python analysis
-
-###### sql/ - SQL queries
-
-###### dashboard/ - dashboard
-
-###### 
-
-###### \## Key Insights
-
-###### 
-
-###### \- Credit score strongly influences loan approval
-
-###### \- Higher income borrowers receive larger loans
-
-###### \- Risk increases for large loans with low credit score
-
-
-
-###### \## Dataset
-
-###### 
-
-###### The dataset used in this project is the Lending Club Loan Dataset and Loan Prediction Dataset.
-
-###### 
-
-###### Download from:
-
-###### https://www.kaggle.com/datasets/wordsforthewise/lending-club
-
-###### https://www.kaggle.com/datasets/altruistdelhite04/loan-prediction-problem-dataset
-
+## Tools & Technologies
+### * Python (Pandas, Matplotlib, Seaborn) → Data cleaning & analysis
+### * SQL (MySQL) → Data querying & validation
+### * Tableau → Dashboard & visualization
